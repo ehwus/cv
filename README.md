@@ -1,5 +1,5 @@
 ## Alex Withington-Smith
-👋 I was the commercial co-founder at *BibliU*. Working with devs reignited an old drive to learn to code, which I've been doing since leaving in January.
+👋 I was the commercial co-founder at *BibliU*. Working with devs reignited an old drive to learn to code, which I've been doing since leaving in January 2020.
 
 Joining an early stage start up taught me to pursue the difficult things, and to learn from my failures. I'm learning to code in this spirit, with a strong sense of curiosity, empathy, and ambition.
 
@@ -20,9 +20,9 @@ _Vice President, Library Sales & Product Management_
 
 - Co-founding employee, brought on to lead commercialisation of early stage start up
 - Used Jira to plan features and manage dev timeline alongside CTO and Head of Product.
-- Occasional coding in Node.js / SQL
+- Used SQL often, and occasionally coded in Node.
 - Managed implementation of Salesforce.com
-- Scaled annual institutional revenue from $0m to $3m
+- Scaled annual institutional revenue from $0m to $3m, managing the commercial team.
 
 **Various publishing sales roles** (2014 - 2017)
 
@@ -49,8 +49,8 @@ _Vice President, Library Sales & Product Management_
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- Ruby, Rails, JavaScript, Node, React
+- RSpec, Jasmine, Jest
 
 #### University of Kent (2009 to 2013)
 
@@ -65,4 +65,4 @@ _Vice President, Library Sales & Product Management_
 
 I care about making technology a more inclusive space, and try to read as much as I can on this subject. I'm also interested in the open source movement, and digital privacy in our increasingly surveilled world. 
 
-I love learning languages, over-exercising, and making music of all kinds. 🎸🥁 🎹
+I love learning languages, playing sports, and making music of all kinds. 🎸🥁 🎹
