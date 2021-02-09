@@ -6,9 +6,9 @@ I'm a recent graduate of the Makers Academy Full Stack Development programme, wi
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **[Rock Paper Scissors](https://github.com/ehwus/rock-paper-scissors)**            | A simple RPS game. | HTML/CSS/JS |
+| **[Chitter](https://github.com/ehwus/chitter-challenge)**            | A social media clone. | Ruby & Sinatra |
 | **[Etch-a-Sketch](https://github.com/ehwus/etch-a-sketch)** | A rainbow etch-a-sketch web app. | HTML/CSS/JS              |
-| **["Space Invaders"](https://github.com/ehwus/space_invaders)** | Space invaders clone | Racket              |
+| **[Cybrdrag](https://github.com/ehwus/cybrdrag)** | a browser based fantasy sports style web game | MongoDB/Express/React/Node              |
 
 ## Experience
 
