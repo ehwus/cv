@@ -1,9 +1,6 @@
 ## Alex Withington-Smith
-👋 I was the commercial co-founder at *BibliU*. Working with devs reignited an old drive to learn to code, which I've been doing since leaving in January 2020.
 
-Joining an early stage start up taught me to pursue the difficult things, and to learn from my failures. I'm learning to code in this spirit, with a strong sense of curiosity, empathy, and ambition.
-
-To learn, I've been following the [Open Source Society University](https://github.com/ossu/computer-science) CS degree and the [Odin Project](https://www.theodinproject.com/). I recently enrolled at [Makers Academy](https://makers.tech/about-us/), Europe's leading Full Stack development boot camp.
+👋  I'm a recent graduate of the Makers Academy Full Stack Development programme, with six years of work experience in Sales and Product Management. Most recently, I was employee number five at BibliU, a company featured in Business Insider’s ‘Hottest 24 EdTech Startups in Europe 2020’. I'm looking for both front and back end development roles that will make use of my start up experience and enthusiasm for creating great software that centres user experience.
 
 ## Projects
 
