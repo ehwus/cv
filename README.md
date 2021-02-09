@@ -1,6 +1,6 @@
 ## Alex Withington-Smith
 
-👋  I'm a recent graduate of the Makers Academy Full Stack Development programme, with six years of work experience in Sales and Product Management. Most recently, I was employee number five at BibliU, a company featured in Business Insider’s ‘Hottest 24 EdTech Startups in Europe 2020’. I'm looking for both front and back end development roles that will make use of my start up experience and enthusiasm for creating great software that centres user experience.
+I'm a recent graduate of the Makers Academy Full Stack Development programme, with six years of work experience in Sales and Product Management. Most recently, I was employee number five at BibliU, a company featured in Business Insider’s ‘Hottest 24 EdTech Startups in Europe 2020’. I'm looking for both front and back end development roles that will make use of my start up experience and enthusiasm for creating great software that centres user experience.
 
 ## Projects
 
